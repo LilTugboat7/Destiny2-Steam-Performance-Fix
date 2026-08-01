@@ -1,0 +1,8 @@
+# Build output
+*.res
+*.obj
+*.o
+*.pdb
+*.ilk
+*.exp
+*.lib
